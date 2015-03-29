@@ -1,0 +1,6 @@
+#Encoding: UTF-8
+#Autor: Alexander Gomez
+#prueba de github
+
+a = int(input("Ecribe un numero"))
+print a
